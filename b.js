@@ -1,1 +1,1 @@
-b["b1_test_var"] = "b_hello";
+b["b2_test_var"] = "b_hello_1";
